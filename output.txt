@@ -1,0 +1,4 @@
+The 1 sequence has the best score with offset 363 and hyphen 85  with score = 119.500000
+The 2 sequence has the best score with offset 126 and hyphen 41  with score = 1871.400000
+The 3 sequence has the best score with offset 855 and hyphen 51  with score = 269.600000
+The 4 sequence has the best score with offset 975 and hyphen 245  with score = 237.400000
